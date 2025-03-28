@@ -31,7 +31,7 @@ The goal is to ensure chatbot responses are **reliable, consistent, and grounded
 ## 🖼️ Demo
 
 <p align="center">
-  <img src="assets/demo-ui.png" alt="Demo UI" width="600"/>
+  <img src="assets/demo-ui.png" alt="Demo UI" width="800"/>
 </p>
 
 ---
