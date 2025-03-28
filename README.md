@@ -31,12 +31,16 @@ The goal is to ensure chatbot responses are **reliable, consistent, and grounded
 ## 🖼️ Demo
 
 <p align="center">
-  <img src="assets/demo-ui.png" alt="Demo UI" width="800"/>
+  <img src="assets/demo-ui.png" alt="Demo UI" width="1000"/>
 </p>
 
 ---
 
 ## 🚀 How to Run
 
-Run both notebooks sequentially in **Google Colab** for the best experience.  
+Run both notebooks sequentially in **Google Colab** for the best experience.
+
+- Download as a `.ipynb` file and then upload it to Colab (easier)
+- You can also clone this repo at Colab
+
 Each notebook includes clear setup instructions and is designed for ease of use.
