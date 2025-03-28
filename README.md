@@ -8,10 +8,10 @@ The goal is to ensure chatbot responses are **reliable, consistent, and grounded
 
 ## 📘 Notebooks
 
-- `nb_1_guardrail_design.ipynb`  
+- `notebooks/nb_1_guardrail_design.ipynb`  
   Walks through the design rationale, groundedness criteria, and how each guardrail aligns with industry standards and enterprise constraints. It also discusses limitations and fine-tuning strategies.
 
-- `nb_2_guardrail.ipynb`  
+- `notebooks/nb_2_guardrail_implementation.ipynb`  
   Brings the solution to life in an interactive RAG-based chatbot. You can send real prompts and observe how the guardrails behave **in real time** (no dummy responses or artificial examples). This allows you to directly experience and evaluate how effectively the guardrails detect undesired queries and ungrounded responses.
 
 ## ✅ Features
@@ -40,7 +40,14 @@ The goal is to ensure chatbot responses are **reliable, consistent, and grounded
 
 Run both notebooks sequentially in **Google Colab** for the best experience.
 
-- Download as a `.ipynb` file and then upload it to Colab (easier)
-- You can also clone this repo at Colab
+- **Option 1:** Download two `.ipynb` files in `notebooks` folder and upload them to Colab (easiest)
+- **Option 2:** Clone this repo directly in Colab
 
 Each notebook includes clear setup instructions and is designed for ease of use.
+
+If you'd like to run it locally, a `requirements.txt` file is included.  
+You can install the necessary packages with:
+
+```bash
+pip install -r requirements.txt
+```

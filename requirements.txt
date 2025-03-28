@@ -1,0 +1,25 @@
+faiss-cpu==1.10.0
+gradio==5.23.1
+guardrails-ai==0.6.4
+huggingface-hub==0.29.3
+ipykernel==6.17.1
+langchain==0.3.21
+langchain-core==0.3.47
+langchain-text-splitters==0.3.7
+langcodes==3.5.0
+langsmith==0.3.18
+numpy==2.0.2
+openpyxl==3.1.5
+pandas==2.2.2
+presidio_analyzer==2.2.358
+presidio_anonymizer==2.2.358
+pyarrow==18.1.0
+PyMuPDF==1.25.4
+sentence-transformers==3.4.1
+spacy==3.8.4
+transformers==4.50.1
+torch==2.6.0
+tqdm==4.67.1
+xlrd==2.0.1
+en_core_web_lg @ https://github.com/explosion/spacy-models/releases/download/en_core_web_lg-3.8.0/en_core_web_lg-3.8.0-py3-none-any.whl#sha256=293e9547a655b25499198ab15a525b05b9407a75f10255e405e8c3854329ab63
+en_core_web_sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.8.0/en_core_web_sm-3.8.0-py3-none-any.whl#sha256=1932429db727d4bff3deed6b34cfc05df17794f4a52eeb26cf8928f7c1a0fb85
